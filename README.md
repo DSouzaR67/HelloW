@@ -21,7 +21,7 @@ Para el Quizz
 
 Extracto de canción de Zoé
 
-Regalame tu corazón y déjame entrar a ese lugar 
+Regalame tu ** corazón y déjame entrar a ese lugar 
 Donde nacen las flores, donde nace el amor
 
 Entrégame tus labios rotos lo quiero besar 
