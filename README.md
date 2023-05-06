@@ -1,4 +1,4 @@
-# HelloW
+# Hello Word
 
 
 ![](https://media.giphy.com/media/lS1H8QDzB9BbQUhHL2/giphy-downsized.gif)
@@ -15,21 +15,8 @@ Para el Quizz
 
 
 
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
 
-# Labios rotos
-
-Extracto de canción de Zoé
-
-Regalame tu **corazón** y déjame entrar a ese lugar 
-Donde nacen las flores, donde nace el amor
-
-Entrégame tus labios rotos lo quiero besar 
-Los quiero curar 
-**Los voy a cuidar con todo mi amor**
-
-Es raro el amor ah, es raro el amor ah 
-Que se te aparece cuando menos piensas
-
-Es raro el amor ah, es raro el amor ah 
-No importa la distancia, ni el tiempo ni la edad
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_II/main/actividades/img/MCD_logo.png)
