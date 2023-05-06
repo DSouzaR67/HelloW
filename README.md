@@ -10,7 +10,7 @@ Fun Web to introdiuce myself
 
 
 
-![]https://media.giphy.com/media/zCTTJQauXVfdRP8IGD/giphy.gif
+![](https://media.giphy.com/media/zCTTJQauXVfdRP8IGD/giphy.gif)
 
 
 <br>
